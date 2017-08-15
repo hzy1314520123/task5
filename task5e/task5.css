@@ -1,0 +1,156 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	
+}
+header{
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	height: 3rem;
+	line-height: 3rem;
+	background-color: #5AC0CE;
+}
+.icon-left{
+	padding-left: 0.6rem;
+	float: left;
+}
+
+.bar{
+	height: 11rem;
+	opacity: 3.2;
+	background:url(../img/38a17cec12b0df5f8a4188382ba0e279e7c6e6def0df-X2hc7H.jpg) left no-repeat;
+	background-size: 100%;
+}
+.personal{
+	text-align: center;
+	height: 100%;
+	opacity: 0.7;
+	background-color: #CCCCCC;
+}
+.headportrait{
+	border-radius: 50%;
+	position: absolute;
+	left: 1.5rem;
+	top: 6rem;
+	float: left;
+	height:5rem;
+	width: 5rem;
+	background: url(../img/task5-1_03.png) left no-repeat;
+	background-size: 100%;
+}
+.details{
+	color: white;
+	font-weight: bold;
+	line-height: 1.5rem;
+	position: absolute;
+	left: 7.5rem;
+	top: 7rem;
+	height: 6rem;
+	font-family: "微软雅黑" "microsoft yahei";
+	font-size: 1rem;
+}
+.details span{
+	padding-right: 2rem;
+}
+.details-bottom{
+	font-size: 0.8rem;
+}
+.details-bottom a{
+	padding-top: 0.5rem;
+	margin-right: 0.2rem;
+	float: left;
+	height: 0.7rem;
+	width: 0.7rem;
+	background: url(../img/task5-1_031.png) left no-repeat;
+    background-size: 100%;
+}
+.middle-part{
+	line-height: 4rem;
+	height: 4rem;
+	border-bottom: solid 0.1rem #CCCCCC;
+}
+.middle-part span{
+	margin-left: 1rem;
+	padding-left: 0.5rem;
+	border-left: solid 0.3rem #5AC0CE;
+}
+.option{
+	font-family: "微软雅黑" "microsoft yahei";  
+	padding-left: 2rem;
+}
+.fisrtop{
+	height: 4rem;
+	line-height: 4rem;
+	font-weight: bold;
+	border-bottom: solid 0.1rem #CCCCCC;
+}
+.fisrtop span{
+	padding-right: 0.5rem;
+	color: red;
+}
+.secop{
+	height: 3rem;
+	line-height: 3rem;
+	border-bottom: solid 0.1rem #CCCCCC;
+}
+.secop span{
+	padding-right: 1rem;
+	padding-left: 1rem;
+	border-right: #CCCCCC solid 1px;
+	color: #CCCCCC;
+}
+.secop3{
+	height: 3rem;
+	line-height: 3rem;
+	border-bottom: solid 0.1rem #CCCCCC;
+	color: red;
+}
+.secop3 span{
+	padding-right: 1rem;
+	padding-left: 1rem;
+	border-right: #CCCCCC solid 1px;
+	color: #CCCCCC;
+}
+.secop1{
+	align-items: center;
+	display: flex;
+	border-bottom: solid 0.1rem #CCCCCC;
+}
+.content{
+	flex:none ;
+	line-height:auto;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-right: 1rem;
+	border-right: #CCCCCC solid 1px;
+	color: #CCCCCC;
+}
+.content1{
+	flex: 1;
+}
+.footer{
+	text-align: center;
+	margin-top: 3rem;
+	height: 5rem;
+}
+.leavemg,.phonecc {
+	
+	border-radius: 0.7rem;
+	float: left;
+	border: solid 2px #5AC0CE;
+	height: 3rem;
+	line-height: 3rem;
+	width: 46%;
+}
+.phonecc{
+	color: white;
+	background-color: #5AC0CE;
+	margin-right: 1rem;
+	float: right;
+}
+.leavemg{
+	color: #5AC0CE;
+	margin-left: 1rem;
+}
