@@ -147,10 +147,10 @@ header{
 .phonecc{
 	color: white;
 	background-color: #5AC0CE;
-	margin-right: 1rem;
+	padding-right: 1rem;
 	float: right;
 }
 .leavemg{
 	color: #5AC0CE;
-	margin-left: 1rem;
+	padding-left: 1rem;
 }
